@@ -1,0 +1,1 @@
+/usr/local/bin/gcc   -rdynamic CMakeFiles/nty_websocket_server.dir/nty_websocket_server.o  -o nty_websocket_server  -lnty_core 

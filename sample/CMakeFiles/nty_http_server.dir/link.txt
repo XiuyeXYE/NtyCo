@@ -1,0 +1,1 @@
+/usr/local/bin/gcc   -rdynamic CMakeFiles/nty_http_server.dir/nty_http_server.o  -o nty_http_server  -lnty_core 

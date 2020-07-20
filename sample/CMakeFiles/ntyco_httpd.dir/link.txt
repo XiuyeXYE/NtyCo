@@ -1,0 +1,1 @@
+/usr/local/bin/gcc   -rdynamic CMakeFiles/ntyco_httpd.dir/ntyco_httpd.o  -o ntyco_httpd  -lnty_core 

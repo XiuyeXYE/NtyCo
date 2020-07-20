@@ -1,0 +1,1 @@
+/usr/local/bin/gcc   -rdynamic CMakeFiles/nty_bench.dir/nty_bench.o  -o nty_bench  -lnty_core 

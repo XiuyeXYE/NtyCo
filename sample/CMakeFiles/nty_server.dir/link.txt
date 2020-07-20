@@ -1,0 +1,1 @@
+/usr/local/bin/gcc   -rdynamic CMakeFiles/nty_server.dir/nty_server.o  -o nty_server  -lnty_core 

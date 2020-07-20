@@ -1,0 +1,1 @@
+/usr/local/bin/gcc   -rdynamic CMakeFiles/nty_http_server_mulcore.dir/nty_http_server_mulcore.o  -o nty_http_server_mulcore  -lnty_core 

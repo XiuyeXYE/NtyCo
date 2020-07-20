@@ -1,0 +1,1 @@
+/usr/local/bin/gcc   -rdynamic CMakeFiles/nty_http_epoll.dir/nty_http_epoll.o  -o nty_http_epoll  -lnty_core 
